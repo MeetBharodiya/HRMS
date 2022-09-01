@@ -12,7 +12,7 @@ if($_SESSION['admin_id']=='') {
 
 <head>
     <meta charset="utf-8">
-    <title>EightTech - HRM</title>
+    <title>Echo Green Solar</title>
     <!-- contains all header links -->
     <?php include '../core/header.php';?>
     <!--For XML Table-->
