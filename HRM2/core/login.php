@@ -34,7 +34,7 @@ if(isset($_POST['apply'])) {
 <html lang="en">
 
 <head>
-    <title>EightTech - HRM</title>
+    <title>Echo Green Solar</title>
     <!-- contains all header links -->
     <?php include '../core/header.php';?>
     <!-- contains all css files  -->
