@@ -63,7 +63,7 @@
                                 <?php $lower = strtolower($a['firstname']); ?>
                                     <img src="../assets/uploadimage/<?=$session_user?>/<?=$a['profile_img']?>" onerror="this.src='../assets/images/dummy.png'" class="profile-img img-fluid">
                                     <h4 class="username"><?php echo $a['username']; ?></h4>
-                                    <p class="email"><?php echo $lower; ?>@eighttechproject.com</p>
+                                    <p class="email"><?php echo $lower; ?>@gmail.com</p>
                                 </div>
                                 <a href="../core/userprofile.php" class="go-to-profile"><i class="fa fa-edit"></i>Go to Profile</a>
                             </div>
